@@ -1,5 +1,3 @@
-import React from 'react';
-import { Brain, Shield, Activity, Calendar, ChevronRight, Star, Users, Lock } from 'lucide-react';
 import HeroSection from './components/HeroSection';
 import FeatureSection from './components/FeatureSection';
 import StatsSection from './components/StatsSection';
